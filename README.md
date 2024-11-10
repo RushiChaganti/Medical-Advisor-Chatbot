@@ -91,9 +91,9 @@ streamlit run app.py
 ### Telegram Bot
 
 #### Step 1: Clone the Repository
-```bash
-git clone <repository_url>
-cd <repository_name>
+```
+git clone "https://github.com/RushiChaganti/Medical-Advisor-Chatbot.git"
+cd .\Medical-Advisor-Chatbot\
 ```
 
 #### Step 2: Create a Virtual Environment
